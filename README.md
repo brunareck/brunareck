@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou a Bruna! 👋
 
-<!--
-**brunareck/brunareck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora em formação, explorando o universo da tecnologia.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/brunacastelanireck/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+- 🌱 Estudante de Ciência da Computação no IFSUL.
+- 💻 Habilidades em Java, C++, JavaScript, HTML e CSS.
+- 🚀 Buscando oportunidades para crescer na área e aplicar meus conhecimentos.
+
+- ### Minhas Atividades
+
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=brunareck&show_icons=true&theme=dark) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunareck&layout=compact&theme=dark)
