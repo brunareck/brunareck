@@ -10,7 +10,7 @@ Desenvolvedora em formação, explorando o universo da tecnologia.
 
 - 🌱 Estudante de Ciência da Computação no IFSUL.
 - 💻 Habilidades em Java, C++, JavaScript, HTML e CSS.
-- 🚀 Buscando oportunidades para crescer na área e aplicar meus conhecimentos.
+- 🚀 Estagiária de Quality Assurance (QA).
 
 - ### Minhas Atividades
 
