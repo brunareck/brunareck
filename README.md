@@ -11,7 +11,3 @@ Desenvolvedora em formação, explorando o universo da tecnologia.
 - 🌱 Estudante de Ciência da Computação no IFSUL.
 - 💻 Habilidades em Java, C++, JavaScript, HTML e CSS.
 - 🚀 Estagiária de Quality Assurance (QA).
-
-- ### Minhas Atividades
-
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=brunareck&show_icons=true&theme=dark) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunareck&layout=compact&theme=dark)
